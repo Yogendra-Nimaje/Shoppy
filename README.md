@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Figma Design 
+
+https://www.figma.com/design/OTSHz3l5BpEfAFgsABpyOe/Desings?node-id=650-79&t=5miaYUzZWsD0uwJA-1
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
